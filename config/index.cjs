@@ -12,9 +12,6 @@ const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'f024021fc812a174c3d9744a683e5d9a',
-#信息配置
-#和风天气apikey
-”weather_apikey:'a165094c39e0030553b693210dac9926',
   
   PROVINCE: '咸阳市',
   CITY: '乾县',
